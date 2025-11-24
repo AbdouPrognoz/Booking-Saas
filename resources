@@ -1,0 +1,4 @@
+- this guy built a full app that handles events tickets , it has some insane features like queue system and also some pretty good admin dashboard , also it handles canceling an event and refunding
+the customors , with multi factor authentification , tho for algeria we might need better ways to secure it and deal with bad people
+https://www.youtube.com/watch?v=KdYci4gA2os
+** it uses stripe for everything money 
