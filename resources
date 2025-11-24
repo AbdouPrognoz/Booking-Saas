@@ -1,4 +1,10 @@
 - this guy built a full app that handles events tickets , it has some insane features like queue system and also some pretty good admin dashboard , also it handles canceling an event and refunding
-the customors , with multi factor authentification , tho for algeria we might need better ways to secure it and deal with bad people
+the customors , with multi factor authentification , tho for algeria we might need better ways to secure it and deal with bad people,
+with rate limiting for 30 min , however he uses clerk and convex , lclhost
+backend with convex is wild for huge production
 https://www.youtube.com/watch?v=KdYci4gA2os
 ** it uses stripe for everything money 
+
+
+some key ideas we should keep in mind before starting the work , building an MVP 
+https://www.youtube.com/watch?v=vaf_0K5rZtg&list=TLPQMjQxMTIwMjVQSVHE_Tv9mg&index=4
